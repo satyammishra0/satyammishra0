@@ -8,7 +8,8 @@
 - 📫 Find me on: [instagram](https://www.instagram.com/_satyammishra07/) · [Github](https://github.com/satyammishra0) · [email](mailto:satyam.growupnext007@gmail.com)
 - 📑 Grab my resumé while you're here: ·[english](<https://satyammishra0.github.io/Portfolio/asset/Satyam-Resume%20(1).pdf>)
 
-<a href="https://github.com/mcornella">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mcornella&show_icons=true&include_all_commits=true&custom_title=GitHub+Stats&theme=vue">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcornella&layout=compact&theme=vue">
-</a>
+[![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=satyammishra0)](https://github.com/satyammishra0/github-readme-stats)
+
+![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=satyammishra0&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satyammishra0&layout=compact)](https://github.com/satyammishra0/github-readme-stats)
