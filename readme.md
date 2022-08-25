@@ -22,5 +22,3 @@
 ![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=satyammishra0&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satyammishra0&layout=compact)](https://github.com/satyammishra0/github-readme-stats)
-
-[![Satyam's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=satyammishra0)](https://github.com/satyammishra0/github-readme-stats)
