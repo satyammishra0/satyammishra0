@@ -1,9 +1,7 @@
 # 💫 About Me:
 Front end and Backend developer.<br>🌍 Based in UP,India.<br>🌺 Work of @GrowUpNext.<br>💼 Working as a full stack web developer .<br>🛠 Mostly code in HTML, CSS, JavaScript, PHP, SQL .<br>
 # A brief intro about me 
-Hello, I am Satyam mishra. I am an explorer, enthusiast and a self taught web developer. I am currently pursuing my BCA from VSICS saket nagar Kanpur is affiliated with CSJMU . I have served as an intern and a freelance web developer for a digital marketing company. With hands-on experience of 1 year in web development I have focused on giving fast, secure, SEO friendly and completely responsive websites to the clients using the technologies such as HTML5, CSS3, JavaScript, PHP, SQL, Figma and Github. The greatest pleasure for me while working with them was the client satisfaction and giving the client the best and above his expectations. One more factor which I always focus on is a well documented code with proper explanation . 
-The motivation factor for me while working is the client’s happiness, giving my best to him. 
-Other than coding I love watching movies and volleyball. 
+As an experienced web developer with 1 year and 7 months of experience, I possess expertise in website development using HTML, CSS, and JavaScript, as well as working with technology platforms, CMS platforms, and Git. My strong communication skills and detail-oriented approach enable me to work effectively with clients and team members alike. Moreover, my problem-solving and analytical skills allow me to overcome complex challenges and deliver successful projects. Overall, I am confident in my ability to contribute my technical skills and knowledge to a company's growth and success.
 
 
 ## 🌐 Socials:
